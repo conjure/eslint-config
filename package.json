@@ -1,12 +1,16 @@
 {
   "name": "eslint-config-conjure",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Conjure",
   "license": "MIT",
   "main": "index.js",
   "files": [
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:conjure/eslint-config.git"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.16.7",
     "@babel/preset-typescript": "^7.16.7",
